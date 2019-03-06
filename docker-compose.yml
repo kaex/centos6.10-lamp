@@ -1,0 +1,12 @@
+version: '3'
+services:
+  web:
+    volumes:
+      - C:\Users\xo\Desktop\docker\www:/var/www/html
+    hostname: xosad
+    image: xosad/centos6.10-lamp:latest
+    container_name: lamp_server
+    build: .
+    ports:
+      - "5022:22"
+      - "5080:80"
