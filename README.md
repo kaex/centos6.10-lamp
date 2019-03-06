@@ -18,4 +18,4 @@ Fire up docker and pull image `docker pull xosad/centos6.10-lamp:latest`
 Start image using `docker-compose up -d` (be inside the folder with `docker-compose.yml`)
 
 ## NOTES
-MySQL creates temporary passwords you can find them using `grep -i temporary /var/log/mysqld.log` after you login `mysql -u root -p` change password using `SET PASSWORD FOR 'root'@'localhost' = PASSWORD('Yourpassword1!');`
+MySQL creates temporary password you can find them using `grep -i temporary /var/log/mysqld.log` after you login `mysql -u root -p` change password using `SET PASSWORD FOR 'root'@'localhost' = PASSWORD('Yourpassword1!');`
