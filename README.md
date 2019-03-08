@@ -1,7 +1,6 @@
 ## CentOS Web Development 💻
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/xosad/centos6.10-lamp/issues)
-[![dependencies Status](https://david-dm.org/dwyl/esta/status.svg)](https://github.com/xosad/centos6.10-lamp/)
 
 CentOS - Web Development Server PHP, MySQL, PHPMyAdmin, Composer, SSH
 
