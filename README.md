@@ -7,7 +7,7 @@ CentOS - Web Development Server PHP, MySQL, PHPMyAdmin, Composer, SSH
 ## Features
 <ul>
 <li>Centos 6.10</li>
-<li>Apache 2</li>
+<li>Apache</li>
 <li>PHP 7.2</li>
 <li>phpMyAdmin</li>
 <li>Git</li>
